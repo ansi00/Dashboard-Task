@@ -1,0 +1,30 @@
+body {
+  background-color: #045e35;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.hover-effect {
+  position: relative;
+  display: inline-block; 
+  padding: 3px 5px; 
+  border-bottom-right-radius: 100px; 
+  border-top-right-radius: 10px; 
+  color: #E09B6B; 
+  opacity: 1;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out; 
+}
+
+.hover-effect:hover {
+  color: #E09B6B; 
+  background-color: #E09B6B; 
+  
+}
+
+
+

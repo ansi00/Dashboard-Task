@@ -176,7 +176,7 @@ export default function Dashboard() {
                 </div>
               </div>
 
-              <div class="col-md-8">
+              <div class="col-md-6">
                 <div class="row g-2">
                   <div class="col-lg-6 col-md-6">
                     <div
@@ -320,7 +320,7 @@ export default function Dashboard() {
                 </div>
               </div>
 
-              <div class="col-md-4">
+              <div class="col-md-6">
                 <div
                   class="card bg-dark rounded-4 text-white shadow"
                   style={{ height: "100%" }}
